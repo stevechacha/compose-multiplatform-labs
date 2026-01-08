@@ -1,0 +1,7 @@
+TEAM_ID=
+
+PRODUCT_NAME=Composemultiplatformlabs
+PRODUCT_BUNDLE_IDENTIFIER=com.chachadev.compose_multiplatform_labs.Composemultiplatformlabs$(TEAM_ID)
+
+CURRENT_PROJECT_VERSION=1
+MARKETING_VERSION=1.0
